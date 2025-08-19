@@ -1,0 +1,38 @@
+body {
+    background-color: rosybrown;
+    color: rgb(109, 255, 24);
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+
+a:visited {
+    color: aquamarine;
+}
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: chartreuse;
+}
+
+h1 {
+    color: aliceblue;
+    background-color: blueviolet;
+} 
+
+.niko {
+    width: 500px;
+    margin: auto;
+    display: block;
+}
+
+.nikotwo {
+    width: 700px;
+    margin: auto;
+    display: block;
+}
+
+
